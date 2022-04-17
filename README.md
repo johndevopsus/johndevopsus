@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @johndevopsus
-- 👀 I’m interested in Devops Engineering
+- 👀 I’m working on Devops Engineering
 - 🌱 I’m currently learning DevOps tools.
 - 📫 How to reach me johndevopsus@gmail.com
 
