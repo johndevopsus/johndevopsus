@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @johndevopsus
-- 👀 I’m working on Devops Engineering
-- 🌱 I’m currently learning DevOps tools.
+- 👀 I’m a Devops Engineer
+- 🌱 I’m currently using many DevOps tools.
 - 📫 How to reach me johndevopsus@gmail.com
 
 <!---
